@@ -1,0 +1,4 @@
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\AbstractClasses\obj\Debug\net8.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\AbstractClasses\obj\Debug\net8.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\AbstractClasses\obj\Debug\net8.0\AbstractClasses.AssemblyInfo.cs
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\AbstractClasses\obj\Debug\net8.0\AbstractClasses.csproj.CoreCompileInputs.cache

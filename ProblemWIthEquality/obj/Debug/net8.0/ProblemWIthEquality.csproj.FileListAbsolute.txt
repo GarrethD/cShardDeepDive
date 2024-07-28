@@ -1,0 +1,14 @@
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\bin\Debug\net8.0\ProblemWIthEquality.exe
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\bin\Debug\net8.0\ProblemWIthEquality.deps.json
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\bin\Debug\net8.0\ProblemWIthEquality.runtimeconfig.json
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\bin\Debug\net8.0\ProblemWIthEquality.dll
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\bin\Debug\net8.0\ProblemWIthEquality.pdb
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\obj\Debug\net8.0\ProblemWIthEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\obj\Debug\net8.0\ProblemWIthEquality.AssemblyInfoInputs.cache
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\obj\Debug\net8.0\ProblemWIthEquality.AssemblyInfo.cs
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\obj\Debug\net8.0\ProblemWIthEquality.csproj.CoreCompileInputs.cache
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\obj\Debug\net8.0\ProblemWIthEquality.dll
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\obj\Debug\net8.0\refint\ProblemWIthEquality.dll
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\obj\Debug\net8.0\ProblemWIthEquality.pdb
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\obj\Debug\net8.0\ProblemWIthEquality.genruntimeconfig.cache
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\ProblemWIthEquality\obj\Debug\net8.0\ref\ProblemWIthEquality.dll

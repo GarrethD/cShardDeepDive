@@ -1,0 +1,14 @@
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\bin\Debug\net8.0\PrimerOnClassesVsValueTypes.exe
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\bin\Debug\net8.0\PrimerOnClassesVsValueTypes.deps.json
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\bin\Debug\net8.0\PrimerOnClassesVsValueTypes.runtimeconfig.json
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\bin\Debug\net8.0\PrimerOnClassesVsValueTypes.dll
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\bin\Debug\net8.0\PrimerOnClassesVsValueTypes.pdb
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\obj\Debug\net8.0\PrimerOnClassesVsValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\obj\Debug\net8.0\PrimerOnClassesVsValueTypes.AssemblyInfoInputs.cache
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\obj\Debug\net8.0\PrimerOnClassesVsValueTypes.AssemblyInfo.cs
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\obj\Debug\net8.0\PrimerOnClassesVsValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\obj\Debug\net8.0\PrimerOnClassesVsValueTypes.dll
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\obj\Debug\net8.0\refint\PrimerOnClassesVsValueTypes.dll
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\obj\Debug\net8.0\PrimerOnClassesVsValueTypes.pdb
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\obj\Debug\net8.0\PrimerOnClassesVsValueTypes.genruntimeconfig.cache
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\PrimerOnClassesVsValueTypes\obj\Debug\net8.0\ref\PrimerOnClassesVsValueTypes.dll

@@ -1,0 +1,4 @@
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\VirtualAndProtectedMethods\obj\Debug\net8.0\VirtualAndProtectedMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\VirtualAndProtectedMethods\obj\Debug\net8.0\VirtualAndProtectedMethods.AssemblyInfoInputs.cache
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\VirtualAndProtectedMethods\obj\Debug\net8.0\VirtualAndProtectedMethods.AssemblyInfo.cs
+C:\Users\garre\RiderProjects\PrimerOnClassesVsValueTypes\VirtualAndProtectedMethods\obj\Debug\net8.0\VirtualAndProtectedMethods.csproj.CoreCompileInputs.cache
